@@ -58,14 +58,11 @@
 
 <div align="left">
   <a href="https://discordapp.com/users/578812855193960452" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
+    <img src="https://cdn.simpleicons.org/discord/5865F2" width="52" height="40" alt="discord logo"  /></a>
   <a href="https://www.facebook.com/angelesge11" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  </a>
+    <img src="https://cdn.simpleicons.org/facebook/1877F2" width="52" height="40" alt="facebook logo"  /></a>
   <a href="https://www.youtube.com/@gabzumii/videos" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  </a>
+    <img src="https://cdn.simpleicons.org/youtube/FF0000" width="52" height="40" alt="youtube logo"  /></a>
 </div>
 
 ###
