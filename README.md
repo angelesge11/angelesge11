@@ -17,7 +17,7 @@
 ###
 
 <div align="center">
-  <img height="215" src="https://scontent.fmnl25-3.fna.fbcdn.net/v/t39.30808-6/487737755_1213811343705052_4319309928765916946_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=86c6b0&_nc_eui2=AeHH1pLA2Rz0-ZBJpSdsnWHszyLHSnrDzeHPIsdKesPN4aGbGrfz9uxmPN2OrsWUqwpr3vCf2YA2s2-tkDimjEXC&_nc_ohc=lKW0nYG8n38Q7kNvwEhxAqN&_nc_oc=AdkC6KIzy_s_R-FEf1kyfc-YJKzCv7C4Zp2wwxfLvzUSfY3YNv-aynL9DmETQdT1oF0&_nc_zt=23&_nc_ht=scontent.fmnl25-3.fna&_nc_gid=jrSSP7aFr7KKZefJ7jEb4A&oh=00_Afe3tsVMDf3kqoJK7OZV8I3HMIhSXHw0BRBd24_4ccizSQ&oe=68FBFC77"  />
+  <img height="215" src="https://scontent.fmnl25-3.fna.fbcdn.net/v/t39.30808-6/487737755_1213811343705052_4319309928765916946_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=86c6b0&_nc_eui2=AeHH1pLA2Rz0-ZBJpSdsnWHszyLHSnrDzeHPIsdKesPN4aGbGrfz9uxmPN2OrsWUqwpr3vCf2YA2s2-tkDimjEXC&_nc_ohc=lKW0nYG8n38Q7kNvwEhxAqN&_nc_oc=AdkC6KIzy_s_R-FEf1kyfc-YJKzCv7C4Zp2wwxfLvzUSfY3YNv-aynL9DmETQdT1oF0&_nc_zt=23&_nc_ht=scontent.fmnl25-3.fna&_nc_gid=jrSSP7aFr7KKZefJ7jEb4A&oh=00_Afe3tsVMDf3kqoJK7OZV8I3HMIhSXHw0BRBd24_4ccizSQ&oe=68FBFC77"/>
 </div>
 
 ###
@@ -63,6 +63,8 @@
     <img src="https://cdn.simpleicons.org/facebook/1877F2" width="52" height="40" alt="facebook logo"  /></a>
   <a href="https://www.youtube.com/@gabzumii/videos" target="_blank">
     <img src="https://cdn.simpleicons.org/youtube/FF0000" width="52" height="40" alt="youtube logo"  /></a>
+  <a href="" target="_blank">
+    <img src="https://www.flaticon.com/free-icon/tik-tok_3046121?term=tiktok&page=1&position=2&origin=search&related_id=3046121" width="52" height="40" alt="tiktok logo"  /></a>
 </div>
 
 ###
