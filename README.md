@@ -64,7 +64,7 @@
   <a href="https://www.youtube.com/@gabzumii/videos" target="_blank">
     <img src="https://cdn.simpleicons.org/youtube/FF0000" width="52" height="40" alt="youtube logo"  /></a>
   <a href="" target="_blank">
-    <img src="https://www.flaticon.com/free-icon/tik-tok_3046121?term=tiktok&page=1&position=2&origin=search&related_id=3046121" width="52" height="40" alt="tiktok logo"  /></a>
+    <img src="https://cdn.simpleicons.org/tiktok/000000" width="52" height="40" alt="tiktok logo" /></a>
 </div>
 
 ###
