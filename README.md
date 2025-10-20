@@ -63,7 +63,7 @@
     <img src="https://cdn.simpleicons.org/facebook/1877F2" width="52" height="40" alt="facebook logo"  /></a>
   <a href="https://www.youtube.com/@gabzumii/videos" target="_blank">
     <img src="https://cdn.simpleicons.org/youtube/FF0000" width="52" height="40" alt="youtube logo"  /></a>
-  <a href="" target="_blank">
+  <a href="https://www.tiktok.com/@angelesge11" target="_blank">
     <img src="https://cdn.simpleicons.org/tiktok/000000" width="52" height="40" alt="tiktok logo" /></a>
 </div>
 
