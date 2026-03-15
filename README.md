@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">🎨 I enjoy editing stuff like GFX, vlogs, and gaming videos.<br>💻 I’m currently learning Python, CSS, and JavaScript.<br>🌱 Always curious and trying to grow my skills.<br>🥅 2025 Goal: Learn, build projects, and improve as a developer.<br>⚡ Fun fact: I love traveling and playing rhythm games.</p>
+<p align="left">🎨 I enjoy editing stuff like GFX, vlogs, and gaming videos.<br>💻 I’m currently learning Figma, Tailwind CSS, and JavaScript.<br>🌱 Always curious and trying to grow my skills.<br>🥅 2026 Goal: Learn, build projects, and improve as a developer.<br>⚡ Fun fact: I love traveling and playing rhythm games.</p>
 
 ###
 
