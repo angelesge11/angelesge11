@@ -17,7 +17,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://pbs.twimg.com/profile_banners/1136522348993974274/1735935173/1500x500"  />
+  <img width="100%" src="https://pbs.twimg.com/profile_banners/1136522348993974274/1735935173/1500x500"  />
 </div>
 
 ###
