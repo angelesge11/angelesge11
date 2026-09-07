@@ -23,7 +23,7 @@
 ###
 
 <div align="center">
-  <ul align="left">
+  <ul align="center">
     <li>I enjoy editing stuff like GFX, vlogs, and gaming videos.</li>
     <li>I’m currently learning Figma, Tailwind CSS, and JavaScript.</li>
     <li>Always curious and trying to grow my skills.</li>
@@ -31,6 +31,7 @@
     <li>Fun fact: I love traveling and playing rhythm games.</li>
   </ul>
 </div>
+
 ###
 
 
