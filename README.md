@@ -22,13 +22,17 @@
 
 ###
 
-<p align="left">- I enjoy editing stuff like GFX, vlogs, and gaming videos.<br>
-- I’m currently learning Figma, Tailwind CSS, and JavaScript.<br>
-- Always curious and trying to grow my skills.<br>
-- Goal: Learn, build projects, and improve as a developer.<br>
-- Fun fact: I love traveling and playing rhythm games.</p>
-
+<div align="center">
+  <ul align="left">
+    <li>I enjoy editing stuff like GFX, vlogs, and gaming videos.</li>
+    <li>I’m currently learning Figma, Tailwind CSS, and JavaScript.</li>
+    <li>Always curious and trying to grow my skills.</li>
+    <li>Goal: Learn, build projects, and improve as a developer.</li>
+    <li>Fun fact: I love traveling and playing rhythm games.</li>
+  </ul>
+</div>
 ###
+
 
 <h2 align="left">Languages and Tools:</h2>
 
