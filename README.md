@@ -1,14 +1,14 @@
-<h1 align="center">Gabzumii</h1>
+<h1 align="center">Hi, I’m Angeles Gabriel</h1>
 
 ###
 
 <div align="center">
-  <img height="150" src="https://i.pinimg.com/originals/2b/8a/ea/2b8aea62e35d703b31cdc9541ce3f5af.gif"  />
+  <img height="150" src="https://i.pinimg.com/originals/ce/70/ff/ce70fff209ec669dea8e0eeb119f4534.gif"  />
 </div>
 
 ###
 
-<p align="center">👋 Hi, I’m Angeles Gabriel  a Computer Science student at City College of Angeles.</p>
+<p align="center">a Computer Science student at City College of Angeles.</p>
 
 ###
 
@@ -22,7 +22,11 @@
 
 ###
 
-<p align="left">🎨 I enjoy editing stuff like GFX, vlogs, and gaming videos.<br>💻 I’m currently learning Figma, Tailwind CSS, and JavaScript.<br>🌱 Always curious and trying to grow my skills.<br>🥅 2026 Goal: Learn, build projects, and improve as a developer.<br>⚡ Fun fact: I love traveling and playing rhythm games.</p>
+<p align="left">- I enjoy editing stuff like GFX, vlogs, and gaming videos.<br>
+- I’m currently learning Figma, Tailwind CSS, and JavaScript.<br>
+- Always curious and trying to grow my skills.<br>
+- Goal: Learn, build projects, and improve as a developer.<br>
+- Fun fact: I love traveling and playing rhythm games.</p>
 
 ###
 
