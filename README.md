@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://c.tenor.com/XfXAxLlabE4AAAAd/tenor.gif" alt="Animated graphic">
+  <img src="https://c.tenor.com/XfXAxLlabE4AAAAd/tenor.gif">
 </div>
 
 ###
