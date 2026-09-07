@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://c.tenor.com/XfXAxLlabE4AAAAd/tenor.gif">
+  <img src="https://wallpapercave.com/wp/wp12554406.jpg">
 </div>
 
 ###
