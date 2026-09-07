@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-   <img width="100%" src="https://wallpapercave.com/wp/wp12554406.jpg" alt="Hatsune Miku wallpaper">
+   <img width="100%" src="https://i.imgur.com/REaPE2A.jpeg" alt="Hatsune Miku wallpaper">
 </div>
 
 ###
